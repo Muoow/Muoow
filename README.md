@@ -5,9 +5,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMuoowanuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muoow&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Muoowanuraghazra)
 
 
 <!---
