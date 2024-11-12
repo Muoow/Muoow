@@ -5,6 +5,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMuoow=anuraghazra)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Muoow=anuraghazra)
+
+
 <!---
 Muoow/Muoow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
