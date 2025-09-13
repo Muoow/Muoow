@@ -8,13 +8,13 @@ function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar =
-      '█'.repeat(passedProgressBarIndex) +
+      '██'.repeat(passedProgressBarIndex) +
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
 
 const readme = `
-<h1>Hi there, I'm Xiang Zhang! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi there, I'm Xiang Zhang! 👋></h1>
 
 > [!TIP]
 > ⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
