@@ -14,7 +14,7 @@ function generateProgressBar() {
 }
 
 const readme = `
-<h1>Hi there, I'm Xiang Zhang! 👋></h1>
+<h1>Hi there, I'm Xiang Zhang! 👋</h1>
 
 > [!TIP]
 > ⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
