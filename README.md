@@ -1,15 +1,9 @@
 
-## About me
-  - Hi, I’m ZhangXiang
-  - I am currently studying at the School of Computer Science and Technology, Tongji University
-  - How to reach me: 2352985@tongji.edu.cn
+<h1>Hi there, I'm Xiang Zhang! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-## Technical Skills
- -
- -
- -
+### About me
+* I am currently studying at the School of Computer Science and Technology, Tongji University
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muoow&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muoow&layout=compact&theme=default)
-
+### My GitHub
+<image src="https://github-readme-stats.vercel.app/api?username=Muoow&hide=contribs,prs" style="height: 180px"/>
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muoow&layout=compact&theme=default" style="height: 180px"/>
