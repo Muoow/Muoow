@@ -2,9 +2,9 @@
 <h1>Hi there, I'm Xiang Zhang! 👋</h1>
 
 > [!TIP]
-> ⏳ Year Progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.38 %
+> ⏳ Year Progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.66 %
 >
-> ⏰ Updated on Mon, 09 Mar 2026 02:27:22 GMT
+> ⏰ Updated on Tue, 10 Mar 2026 02:12:53 GMT
 
 ### About me
 * I am currently studying at the School of Computer Science and Technology, Tongji University
